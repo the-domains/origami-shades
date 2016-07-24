@@ -1,0 +1,14 @@
+layout_spectrum: 0.35246904543600976
+typography_spectrum: 0.1464564325287938
+color:
+  brandStrength: 0.660022004507482
+  lightness: 0.18142798426561058
+  saturation: 0.3104257364757359
+  rhythmicContrast: 0.009148761164397001
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Origami Shades
